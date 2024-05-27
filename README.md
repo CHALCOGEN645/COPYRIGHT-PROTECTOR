@@ -1,6 +1,6 @@
 h1 align="center"><b>[✨🥀] 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 ✓ 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚘𝚛 ©️ [✨🥀]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
+<h4 align="center"> 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 ✓ 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚘𝚛 ©️ </h4>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
