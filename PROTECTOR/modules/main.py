@@ -21,7 +21,7 @@ START_TEXT = """<b> 🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡�
 @app.on_message(filters.command("start"))
 async def start_command_handler(_, msg):
     buttons = [
-        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/copyright_protect_robot")],
+        [InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
         [InlineKeyboardButton("• ʜᴀɴᴅʟᴇʀ •", callback_data="vip_back")]
         
     ]
