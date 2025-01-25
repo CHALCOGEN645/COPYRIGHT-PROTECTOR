@@ -1,30 +1,35 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐑𝐀𝐉𝐍𝐈𝐒𝐇+𝐗𝐃+🖤+🥀"></b></h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align="center"><b>[✨🥀] 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 ✓ 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚘𝚛 ©️ [✨🥀]</b></h1>
+
+<h4 align="center"> 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 ✓ 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚘𝚛 ©️ </h4>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/doraemon890/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/CHALCOGEN645/count.svg" />
 </p>
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=350&lines=𝙲𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝+𝙿𝚛𝚘𝚝𝚎𝚌𝚝𝚘r+ʙᴏᴛ"></b></h1>
+[<img src="https://telegra.ph/file/36a05fcbed47326719f5c.jpg"/>]
 
-<p align="center"><a href="https://t.me/jarvis2O"><img src="https://telegra.ph/file/20d1bcedcf901bed9bf65.jpg" width="600"></a></p>
+> ⭐️ Thanks to everyone for using this op 𝚌𝚘𝚙𝚢𝚛𝚒𝚐𝚑𝚝 ✓ 𝚙𝚛𝚘𝚝𝚎𝚌𝚝𝚘𝚛 ©️. That is the greatest pleasure we have !
 
-# 𝐃𝐄𝐏𝐋𝐎𝐘𝐄𝐌𝐄𝐍𝐓✨🦋
+
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
+
+
 <details>
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/doraemon890/COPYRIGHT-PROTECTOR"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/CHALCOGEN645/COPYRIGHT-PROTECTOR)
+
 </details>
 
 
-# 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 💗🥀
-<a href="https://t.me/jarvis2O"><img title="Telegram" src="https://img.shields.io/badge/JARVIS-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com"><img title="GMAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://youtube.com/@rajnisha3"><img title="Youtube" src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://instagram.com/_rajnish_mishra____"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://t.me/BWANDARLOK"><img title="Support" src="https://img.shields.io/badge/Support-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://t.me/penguin_x_chat"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
+<a href="https://t.me/penguin_x_support"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
+</details>
+<a href="https://t.me/chalcogenxd"><img title="Telegram" src="https://img.shields.io/badge/CHALCOGEN-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://instagram.com/chalocgen645"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
