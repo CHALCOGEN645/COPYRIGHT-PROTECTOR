@@ -22,13 +22,13 @@ START_TEXT = """<b>🤖 ᴄᴏᴘʏʀɪɢʜᴛ ᴘʀᴏᴛᴇᴄᴛᴏʀ 🛡️
 """
 AUTHORIZED_USERS_FILE = "authorized_users.json"
 MAX_MESSAGE_LENGTH = 40
-Devs = ["7044783841", "7019293589", "6757745933"]
+Devs = ["6536914119"]
 
 # Define gd_buttons
 gd_buttons = [
-    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/JARVIS_V2"),
+    [InlineKeyboardButton("ᴏᴡɴᴇʀ", url="https://t.me/ll_malware_ll"),
      InlineKeyboardButton("• ʙᴀᴄᴋ •", callback_data="back_to_start"),
-     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/JARVIS_V_SUPPORT")]
+     InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/itz_soulmates")]
 ]
 
 # Load authorized users from file
