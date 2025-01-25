@@ -14,7 +14,7 @@ async def JARVIS():
     print("Bot Started Successfully")
     await idle()
     print("MAI HU PIRO CODER BOLO NHI AAYA ERROR")
-    await PROTECTOR.send_message(LOGGER_ID, "**ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ ʏᴏᴜʀ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ✅ \n ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ  [JARVIS](https://t.me/JARVIS_V2)**")
+    await PROTECTOR.send_message(LOGGER_ID, "**ɪ ᴀᴍ ᴀʟɪᴠᴇ ʙᴀʙʏ ʏᴏᴜʀ ʙᴏᴛ ᴅᴇᴘʟᴏʏᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ✅ \n ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ  [malware](https://t.me/ll_malware_ll)**")
 
 if __name__ == "__main__":
     loop.run_until_complete(JARVIS())
